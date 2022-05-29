@@ -1,1 +1,0 @@
-# hajsong.github.io
