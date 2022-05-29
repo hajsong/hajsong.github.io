@@ -6,6 +6,9 @@ googleAnalytics = "UA-110544334-1"
 languageCode = "en-us"
 theme = "hugo-orbit-theme"
 title = "Hajoon Song"
+
+publishDir = "docs"
+
 [params]
 
 # Meta
